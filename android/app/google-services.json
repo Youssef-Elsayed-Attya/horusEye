@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371673533174",
+    "project_id": "horus-eye-5c77a",
+    "storage_bucket": "horus-eye-5c77a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371673533174:android:dd660eed13dea87cdafad7",
+        "android_client_info": {
+          "package_name": "com.example.horus_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcplJdyzCtJsDoVNgIRFTkJ8E1RQKvPTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
